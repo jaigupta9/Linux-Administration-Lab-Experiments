@@ -67,7 +67,7 @@ Below are screenshots demonstrating the execution of commands
 
 #### 1. Viewing the `gedit` man page:
 ![gedit man page](screenshots/mangedit.png)
-![gedit man page](screenshots/gedit_man.png
+![gedit man page](screenshots/gedit_man.png)
 
 #### 2. Searching for `ext4` commands:
 ![Searching ext4](screenshots/search_ext4.png)
